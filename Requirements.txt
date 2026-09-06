@@ -1,0 +1,11 @@
+torch>=2.0.0
+transformers>=4.40.0
+datasets
+peft>=0.10.0
+accelerate
+scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
+tqdm
